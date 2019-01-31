@@ -1,0 +1,7 @@
+C:\Sabari\POC\SedentryAlert\SedentryAlert\bin\Debug\SedentryAlert.exe.config
+C:\Sabari\POC\SedentryAlert\SedentryAlert\bin\Debug\SedentryAlert.exe
+C:\Sabari\POC\SedentryAlert\SedentryAlert\bin\Debug\SedentryAlert.pdb
+C:\Sabari\POC\SedentryAlert\SedentryAlert\obj\Debug\SedentryAlert.csprojAssemblyReference.cache
+C:\Sabari\POC\SedentryAlert\SedentryAlert\obj\Debug\SedentryAlert.csproj.CoreCompileInputs.cache
+C:\Sabari\POC\SedentryAlert\SedentryAlert\obj\Debug\SedentryAlert.exe
+C:\Sabari\POC\SedentryAlert\SedentryAlert\obj\Debug\SedentryAlert.pdb
